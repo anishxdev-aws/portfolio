@@ -8,7 +8,7 @@ function App() {
 
       {/* Navbar */}
       <nav className="navbar">
-        <h2 className="logo">Anish<span>.</span></h2>
+        <h2 className="logo">My Portfolio<span>.</span></h2>
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#about">About</a></li>
