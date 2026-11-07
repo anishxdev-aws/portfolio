@@ -638,7 +638,7 @@ function App() {
             <a href="mailto:anikrish.v@gmail.com">
               <span>✉</span>anikrish.v@gmail.com
             </a>
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="http://www.linkedin.in" target="_blank" rel="noreferrer">
               <span>in</span> LinkedIn Profile
             </a>
             <span><span>⌖</span> Palakkad, Kerala, India</span>
